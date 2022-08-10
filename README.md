@@ -1,1 +1,3 @@
 # Eye-As-Mouse
+
+This is a small project using Python in which we can use our EYE as MOUSE....for curser movement right eye and for click left eye....
